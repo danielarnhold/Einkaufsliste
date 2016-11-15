@@ -3,7 +3,7 @@
 # Lebenslauf
 
 ## Bild
-<img src="https://github.com/danielarnhold/Einkaufsliste/blob/alternative/avatar.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="https://github.com/danielarnhold/Einkaufsliste/blob/alternative/avatar.png" alt="Drawing" style="width: 100px;"/>
 ## Über mich
 **Vorname:**  Daniel **Nachname:**  Arnhold **Wohnort:**  St. Georgen im Schwarzwald
 
