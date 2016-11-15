@@ -30,3 +30,8 @@
 
 ## Heute schon gelacht?
 [![Polnische VS Deutsche Arbeiter](http://img.youtube.com/vi/K-hjG3t9wHY/0.jpg)](http://www.youtube.com/watch?v=K-hjG3t9wHY)
+
+
+## Sonstiges
+
+Hauptsache erstmal wieder 2.50€ für nen winzigen Smoothie ausgegeben. Man gönnt sich ja sonst nix. 
