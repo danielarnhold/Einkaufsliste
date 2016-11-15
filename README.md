@@ -34,4 +34,4 @@
 
 ## Sonstiges
 
-Ich habe einen sehr sehr kleinen Pillemann 
+Hauptsache erstmal wieder 2.50€ für nen winzigen Smoothie ausgegeben. Man gönnt sich ja sonst nix. 
