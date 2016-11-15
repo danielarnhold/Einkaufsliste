@@ -1,7 +1,7 @@
 [![Requires.io](https://img.shields.io/requires/github/celery/celery.svg)]() [![Beerpay](https://img.shields.io/beerpay/hashdog/scrapfy-chrome-extension.svg)]() [![CocoaPods](https://img.shields.io/cocoapods/p/AFNetworking.svg)]()
 
 # Lebenslauf
-
+<img style="float: right; width: 100px; height: auto;" src="https://github.com/danielarnhold/Einkaufsliste/blob/alternative/avatar.jpg">
 ## Über mich
 **Vorname:**  Daniel **Nachname:**  Arnhold **Wohnort:**  St. Georgen im Schwarzwald
 
