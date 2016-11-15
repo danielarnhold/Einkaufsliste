@@ -10,9 +10,12 @@
 * Studium (_bis heute_)
 
 ## im Beruf
-* Mai 2013 bis März 2015:  Living Internet GmbH, Frankfurt
-* August 2013 bis heute:   Black Forest IT Systems, St. Georgen
-* Februar 2015 bis heute:  imsimity GmbH, St. Georgen
+| Zeitraum      | Unternehmen   | Standort  |
+| ------------- |:-------------:| -----:|
+| 05 / 2013 bis 03 / 2015  | Living Internet GmbH      |   Frankfurt am Main |
+| 05 / 2013 bis 03 / 2015  | Black Forest IT Systems   |   St. Georgen i. Schw. |
+| 05 / 2013 bis 03 / 2015  | imsimity GmbH             |   St. Georgen i. Schw. |
+
 
 ## Kenntnisse
 * PHP
@@ -22,4 +25,5 @@
 * C# / C++
 * Salt + Icinga 2 + T-Collector & OpenTSDB
 
-
+# Video
+[![Polnische VS Deutsche Arbeiter](http://img.youtube.com/vi/K-hjG3t9wHY/0.jpg)](http://www.youtube.com/watch?v=K-hjG3t9wHY)
