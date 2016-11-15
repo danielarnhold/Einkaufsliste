@@ -1,3 +1,5 @@
+[![Requires.io](https://img.shields.io/requires/github/celery/celery.svg)]() [![Beerpay](https://img.shields.io/beerpay/hashdog/scrapfy-chrome-extension.svg)]() [![CocoaPods](https://img.shields.io/cocoapods/p/AFNetworking.svg)]()
+
 # Lebenslauf
 
 ## Über mich
@@ -16,7 +18,6 @@
 | 05 / 2013 bis 03 / 2015  | Black Forest IT Systems   |   St. Georgen i. Schw. |
 | 05 / 2013 bis 03 / 2015  | imsimity GmbH             |   St. Georgen i. Schw. |
 
-
 ## Kenntnisse
 * PHP
 * HTML5
@@ -25,5 +26,5 @@
 * C# / C++
 * Salt + Icinga 2 + T-Collector & OpenTSDB
 
-# Video
+## Heute schon gelacht?
 [![Polnische VS Deutsche Arbeiter](http://img.youtube.com/vi/K-hjG3t9wHY/0.jpg)](http://www.youtube.com/watch?v=K-hjG3t9wHY)
